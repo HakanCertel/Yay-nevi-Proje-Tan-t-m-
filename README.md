@@ -7,9 +7,9 @@
 
 ## 🌟 Genel Bakış
 
-**YAYIN EVİ İŞ TAKİP VE SÜREÇ YÖNETİM SİSTEMİ**, bir yayın evinde, ajans sözleşmelerinin yapılmasından, telif takibine aylık / yıllık yayın programlarının yapılmasından , program dahilinde işlerin tanımlanıp ilgili kullanıcalara atanması, güçlü bir mesajlaşma ve dosya yönetimiyle herbir Eser/Proje takibinin dinamik takinine ve kullanıcıların kendi işlerini yönetebilecekleri Gerçek zamanlı görev ve süreç yönetimi sağlayan bir SPA (Single Page Application)'dır.
+**YAYIN EVİ İŞ TAKİP VE SÜREÇ YÖNETİM SİSTEMİ**, bir yayın evinde, ajans sözleşmelerinin yapılmasından, telif takibine aylık / yıllık yayın programlarının yapılmasından , program dahilinde işlerin tanımlanıp ilgili kullanıcalara atanması, güçlü bir mesajlaşma ve dosya yönetimiyle herbir Eser/Proje takibinin dinamik takibine ve kullanıcıların kendi işlerini yönetebilecekleri Gerçek zamanlı görev ve süreç yönetimi sağlayan bir SPA (Single Page Application)'dır.
 
-Bu proje **Angular** ile geliştirilmiş olup ve **.NET Core Web API** ile iletişim kurmaktadır.
+Bu proje **Angular** ile geliştirilmiş olup **.NET Core Web API** ile iletişim kurmaktadır.
 
 ## ✨ Özellikler
 
