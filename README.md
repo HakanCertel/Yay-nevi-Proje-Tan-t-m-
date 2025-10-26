@@ -13,8 +13,6 @@ Bu proje **Angular** ile geliştirilmiş olup **.NET Core Web API** ile iletişi
 
 ## ✨ Özellikler
 
-Projenin temel özelliklerini maddeler halinde listeleyin:
-
 * ✅ Kullanıcı doğrulama ve yetkilendirme (JWT).
 * ✅ Dinamik ve Responsive Arayüz (Bootstrap/Material/HTML/CSS).
 * ✅ Gerçek zamanlı veri güncellemeleri(SinalR).
@@ -30,7 +28,6 @@ Projenin temel özelliklerini maddeler halinde listeleyin:
 | :--- | :--- |
 | **Frontend** | Angular v16.2.16, TypeScript, RxJS, Angular Material/Bootstrap, Fontawesome, Alertify.js, Angular-jwt, Ngx-file-drop, Ngx-scanner-qrcode, Ngx-spinner, Ngx-toastr, Microsoft/SignalR |
 | **Backend** | C#/.NET 8, Asp.Net Core Web Api, PostgreSQL-SQL Server, Entity Framework Core, MediatR, Google.Apis.Auth, Asp.Net Core Identity,Jwt Bearer, QRCoder, DependencyInjection, SignalR, Azure Storage Blob, Local Storage |
-| **Test** | Karma, Jasmine, Cypress |
 
 
 ## 🖼️ Ekran Görüntüleri
