@@ -31,4 +31,7 @@ Bu proje **Angular** ile geliştirilmiş olup **.NET Core Web API** ile iletişi
 
 
 ## 🖼️ Ekran Görüntüleri
-![alt text](image.png) ![alt text](image-1.png)
+**Ajans Listesi** : Ajansları listeler, yeni ajans ve aşansa bağlı yazar ekleyebilir, ajans detaylarını gösterebilirsiniz.
+
+<img width="547" height="556" alt="image" src="https://github.com/user-attachments/assets/d2f0a497-b44d-4de0-8363-2028f891d1af" />
+
