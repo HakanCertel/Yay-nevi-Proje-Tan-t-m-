@@ -31,7 +31,61 @@ Bu proje **Angular** ile geliştirilmiş olup **.NET Core Web API** ile iletişi
 
 
 ## 🖼️ Ekran Görüntüleri
-**Ajans Listesi** : Ajansları listeler, yeni ajans ve aşansa bağlı yazar ekleyebilir, ajans detaylarını gösterebilirsiniz.
+<table>
+  <tr>
+    <td align="center">
+      <h3>Ajans Listesi Sayfası</h3>
+      <img width="1365" height="645" alt="image" src="https://github.com/user-attachments/assets/7bd039c4-0569-441a-91c5-c84997c2df53" />
+    </td>
+    <td align="center">
+      <h3>Ajans Detayları Sayfası</h3>
+      <img width="1366" height="643" alt="image" src="https://github.com/user-attachments/assets/f8d1888e-c132-463b-9297-04494ce3ee4f" />
+    </td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td align="center">
+      <h3>Kitap/Eser Listesi Sayfası</h3>
+      <img width="1365" height="643" alt="image" src="https://github.com/user-attachments/assets/37ee944f-ebd8-4c18-b5f4-c18be7052520" />
+    </td>
+    <td align="center">
+      <h3>Kitap/Eser Güncelleme/Oluşturma Sayfası</h3>
+      <img width="1363" height="642" alt="image" src="https://github.com/user-attachments/assets/226969d3-a72b-49fa-b294-2121a34beaed" />
+    </td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td align="center">
+      <h3>Proje Listesi Sayfası:</h3>
+      <span>Projeleri Durumlarına göre filtreleyin</span>** <span>Yeni Proje Oluşturun</span>**<span>Projeye ait işleri tanımlayın</span>**<span>Tanımlı işlerinizi görüntüleyin</span>
+      <img width="1363" height="646" alt="image" src="https://github.com/user-attachments/assets/0be841f9-02cd-4c65-a478-5cf3fb663d7e" />
+    </td>
+    <td align="center">
+      <h3>Proje Ekleme Güncelleme Sayfası </h3>
+      <img width="1366" height="643" alt="image" src="https://github.com/user-attachments/assets/33315e0a-143b-4683-9769-8f050afb1eb7" />
+    </td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td align="center">
+      <h3>Proje Detayları Sayfası:</h3>
+      <span>Projeye ait işleri görüntüleyin</span>** <span>İşlere ait detaylara gidin</span>**<span>Proje dosyalarını indirin</span>**<span>işlerin durumlarını takip edin</span>
+      <img width="1365" height="646" alt="image" src="https://github.com/user-attachments/assets/260e6e29-079b-4be8-a2ac-b34c48ac11d4" />
+    </td>
+    <td align="center">
+      <h3>İşi tanımla, Kullanıcı ata, kullanıcılarla canlı mesajlaşma, dosya yönetimi</h3>
+      <img width="1366" height="643" alt="image" src="https://github.com/user-attachments/assets/23f864a0-b504-49f0-a86e-1a7823c96dab" />
+    </td>
+  </tr>
+</table>
 
-<img width="547" height="556" alt="image" src="https://github.com/user-attachments/assets/d2f0a497-b44d-4de0-8363-2028f891d1af" />
+
+
+
+
+
+
 
